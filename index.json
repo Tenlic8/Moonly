@@ -2,19 +2,19 @@
   {
     "name": "Fedora ware",
     "size": "2.41MB",
-    "image_link": "https://example.com/image1.jpg",
+    "image_link": "https://pixabay.com/photos/leaf-fall-leaves-grape-leaf-plant-6951735/",
     "download_link": "https://example.com/download1"
   },
   {
     "name": "Product 2",
     "size": "500g",
-    "image_link": "https://example.com/image2.jpg",
+    "image_link": "https://pixabay.com/photos/leaf-fall-leaves-grape-leaf-plant-6951735/",
     "download_link": "https://example.com/download2"
   },
   {
     "name": "Product 3",
     "size": "1kg",
-    "image_link": "https://example.com/image3.jpg",
+    "image_link": "https://pixabay.com/photos/leaf-fall-leaves-grape-leaf-plant-6951735/",
     "download_link": "https://example.com/download3"
   }
 ]
