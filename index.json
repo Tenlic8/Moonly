@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fedoraware",
+    "size": "2.41MB",
+    "image_link": "https://camo.githubusercontent.com/6acadf0efc8fdf084e2861c5f9cc3e4797f7e95c1be706ea03ebf65727507b4b/68747470733a2f2f692e696d6775722e636f6d2f496a53645732392e706e67",
+    "download_link": "https://example.com/download1"
+  },
+  {
+    "name": "AnotherSoftware",
+    "size": "1.5GB",
+    "image_link": "https://example.com/images/anothersoftware.png",
+    "download_link": "https://example.com/download2"
+  },
+  {
+    "name": "AwesomeTool",
+    "size": "500KB",
+    "image_link": "https://example.com/images/awesometool.jpg",
+    "download_link": "https://example.com/download3"
+  },
+  {
+    "name": "SuperApp",
+    "size": "800MB",
+    "image_link": "https://example.com/images/superapp.png",
+    "download_link": "https://example.com/download4"
+  }
+]
